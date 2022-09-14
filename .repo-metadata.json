@@ -1,0 +1,13 @@
+{
+  "api_shortname": "bigquery-jdbc",
+  "name_pretty": "Google Cloud Bigquery JDBC",
+  "product_documentation": "https://cloud.google.com/bigquery",
+  "client_documentation": "https://cloud.google.com/java/docs/reference/google-cloud-bigquery/latest/history",
+  "release_level": "unreleased",
+  "language": "java",
+  "min_java_version": 8,
+  "repo": "googleapis/java-bigquery-jdbc",
+  "repo_short": "java-bigquery-jdbc",
+  "distribution_name": "com.google.cloud:google-cloud-bigquery-jdbc",
+  "library_type": "OTHER"
+}
